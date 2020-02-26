@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PESEL VALIDATOR</string>
+    <string name="promt_id">PROSZĘ WPROWADZIĆ NUMBER PESEL</string>
+    <string name="submit">SPRAWDŹ</string>
+    <string name="yob">ROK URODZENIA:</string>
+    <string name="gender">PŁEĆ:</string>
+    <string name="female">KOBIETA</string>
+    <string name="male">MĘŻCZYZNA</string>
+    <string name="mob">MIESIĄC URODZENIA</string>
+
+
+</resources>
