@@ -1,5 +1,3 @@
 # PeselValidator
 mobile app 
-
-![sample screen](https://ibb.co/2Mwt7z7)
-
+![sample screen](https://i.ibb.co/HP0zDcD/peselvalidator.png)
